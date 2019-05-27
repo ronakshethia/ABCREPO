@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>india state_north</name>
+    <Style id="poly-A1C2FA-2000-76-normal">
+      <LineStyle>
+        <color>fffac2a1</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cfac2a1</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-A1C2FA-2000-76-highlight">
+      <LineStyle>
+        <color>fffac2a1</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cfac2a1</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-A1C2FA-2000-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-A1C2FA-2000-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-A1C2FA-2000-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>34</name>
+      <description><![CDATA[description: description: name: Id:<br>description: description: <br>Name: Delhi<br>Id: 8<br>Layer: Unknown Area Type<br>Name: Delhi<br>Layer: Unknown Area Type<br>Name: Delhi<br>Layer: Unknown Area Type<br>Name: Delhi<br>Layer: Unknown Area Type]]></description>
+      <styleUrl>#poly-A1C2FA-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>description: name: Id:
+description: description: 
+Name: Delhi
+Id: 8
+Layer: Unknown Area Type
+Name: Delhi
+Layer: Unknown Area Type
+Name: Delhi
+Layer: Unknown Area Type</value>
+        </Data>
+        <Data name="Name">
+          <value>Delhi</value>
+        </Data>
+        <Data name="Layer">
+          <value>Unknown Area Type</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              77.319062,28.56181,0
+              77.295381,28.626471,0
+              77.292542,28.641615,0
+              77.292262,28.652469,0
+              77.313617,28.678984,0
+              77.308276,28.696248,0
+              77.300764,28.702605,0
+              77.265471,28.74095,0
+              77.265018,28.758316,0
+              77.259721,28.773406,0
+              77.257044,28.782037,0
+              77.242001,28.794745,0
+              77.238805,28.822911,0
+              77.21839,28.852876,0
+              77.210572,28.870081,0
+              77.202693,28.889457,0
+              77.197321,28.906715,0
+              77.196797,28.92625,0
+              77.19633,28.943616,0
+              77.195571,28.971834,0
+              77.19978,28.997989,0
+              77.173188,28.982201,0
+              77.159111,28.957998,0
+              77.147257,28.942531,0
+              77.135347,28.929234,0
+              77.118593,28.913654,0
+              77.101664,28.904585,0
+              77.084738,28.895513,0
+              77.073023,28.875699,0
+              77.07351,28.858334,0
+              77.061984,28.832007,0
+              77.047278,28.831669,0
+              77.025405,28.824648,0
+              77.00856,28.813397,0
+              76.994169,28.802201,0
+              76.982294,28.78889,0
+              76.975446,28.771353,0
+              76.97601,28.751819,0
+              76.978898,28.736683,0
+              76.98191,28.717206,0
+              76.982222,28.706353,0
+              76.975254,28.693157,0
+              76.965903,28.677732,0
+              76.956492,28.664478,0
+              76.947083,28.651222,0
+              76.93291,28.633509,0
+              76.923316,28.626763,0
+              76.908703,28.624241,0
+              76.896665,28.617435,0
+              76.89705,28.604412,0
+              76.89499,28.59133,0
+              76.883021,28.582352,0
+              76.873499,28.573433,0
+              76.864108,28.560172,0
+              76.866941,28.547209,0
+              76.874338,28.545217,0
+              76.884243,28.541113,0
+              76.902056,28.517651,0
+              76.909705,28.506975,0
+              76.924619,28.498644,0
+              76.948925,28.503568,0
+              76.965903,28.508314,0
+              76.99773,28.50689,0
+              77.012452,28.505062,0
+              77.034136,28.516425,0
+              77.046049,28.52756,0
+              77.063096,28.530124,0
+              77.077881,28.526118,0
+              77.097372,28.528732,0
+              77.10232,28.526672,0
+              77.107566,28.513759,0
+              77.107864,28.502905,0
+              77.120378,28.492327,0
+              77.132771,28.486089,0
+              77.142838,28.475453,0
+              77.145869,28.4538,0
+              77.146281,28.438605,0
+              77.175817,28.430572,0
+              77.19512,28.439685,0
+              77.219941,28.425023,0
+              77.239588,28.421105,0
+              77.256565,28.425815,0
+              77.273208,28.443548,0
+              77.28264,28.456781,0
+              77.297127,28.463605,0
+              77.321607,28.461949,0
+              77.350754,28.469075,0
+              77.357864,28.477911,0
+              77.345266,28.492853,0
+              77.339665,28.520973,0
+              77.331727,28.5447,0
+              77.319062,28.56181,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

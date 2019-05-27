@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>lakshadweep</name>
+    <Style id="poly-CE93D8-2000-76-normal">
+      <LineStyle>
+        <color>ffd893ce</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cd893ce</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-CE93D8-2000-76-highlight">
+      <LineStyle>
+        <color>ffd893ce</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cd893ce</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-CE93D8-2000-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-CE93D8-2000-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-CE93D8-2000-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>33</name>
+      <description><![CDATA[description: description: name: Id:<br>description: description: <br>Name: Laksha Dweeps<br>Id: 33<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: South Zone<br>Name: Laksha Dweeps<br>Layer: South Zone]]></description>
+      <styleUrl>#poly-CE93D8-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>description: name: Id:
+description: description: 
+Name: Laksha Dweeps
+Id: 33
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: South Zone</value>
+        </Data>
+        <Data name="Name">
+          <value>Laksha Dweeps</value>
+        </Data>
+        <Data name="Layer">
+          <value>South Zone</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              72.175564,10.819439,0
+              72.168565,10.80926,0
+              72.167427,10.798543,0
+              72.174471,10.795192,0
+              72.181154,10.796648,0
+              72.186656,10.800918,0
+              72.198337,10.813373,0
+              72.204445,10.82252,0
+              72.217337,10.844731,0
+              72.223302,10.855801,0
+              72.222581,10.865416,0
+              72.220291,10.870082,0
+              72.212352,10.872401,0
+              72.209457,10.872189,0
+              72.205812,10.869022,0
+              72.200453,10.862829,0
+              72.189276,10.843644,0
+              72.175564,10.819439,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>33</name>
+      <description><![CDATA[description: description: name: Id:<br>description: description: <br>Name: Laksha Dweeps<br>Id: 33<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: South Zone<br>Name: Laksha Dweeps<br>Layer: South Zone]]></description>
+      <styleUrl>#poly-CE93D8-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>description: name: Id:
+description: description: 
+Name: Laksha Dweeps
+Id: 33
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: South Zone</value>
+        </Data>
+        <Data name="Name">
+          <value>Laksha Dweeps</value>
+        </Data>
+        <Data name="Layer">
+          <value>South Zone</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              72.614254,10.539828,0
+              72.611922,10.531923,0
+              72.615096,10.528281,0
+              72.621986,10.526839,0
+              72.628666,10.528283,0
+              72.63631,10.529797,0
+              72.644779,10.533303,0
+              72.656965,10.53901,0
+              72.663225,10.546227,0
+              72.666522,10.554201,0
+              72.66782,10.563,0
+              72.663472,10.56946,0
+              72.657475,10.571934,0
+              72.644937,10.571039,0
+              72.640115,10.570694,0
+              72.634539,10.567394,0
+              72.629104,10.562169,0
+              72.623809,10.555019,0
+              72.614254,10.539828,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>33</name>
+      <description><![CDATA[description: description: name: Id:<br>description: description: <br>Name: Laksha Dweeps<br>Id: 33<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: South Zone<br>Name: Laksha Dweeps<br>Layer: South Zone]]></description>
+      <styleUrl>#poly-CE93D8-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>description: name: Id:
+description: description: 
+Name: Laksha Dweeps
+Id: 33
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: South Zone</value>
+        </Data>
+        <Data name="Name">
+          <value>Laksha Dweeps</value>
+        </Data>
+        <Data name="Layer">
+          <value>South Zone</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              72.31751,10.945831,0
+              72.308071,10.942241,0
+              72.301529,10.938863,0
+              72.294092,10.934452,0
+              72.288731,10.928259,0
+              72.293456,10.917003,0
+              72.298643,10.912547,0
+              72.306509,10.911187,0
+              72.315198,10.911821,0
+              72.323743,10.914378,0
+              72.333038,10.919891,0
+              72.3384,10.926083,0
+              72.343762,10.932275,0
+              72.346371,10.936333,0
+              72.347728,10.944167,0
+              72.345438,10.948835,0
+              72.341289,10.9524,0
+              72.334315,10.954792,0
+              72.325625,10.954158,0
+              72.31751,10.945831,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>33</name>
+      <description><![CDATA[description: description: name: Id:<br>description: description: <br>Name: Laksha Dweeps<br>Id: 33<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: South Zone<br>Name: Laksha Dweeps<br>Layer: South Zone]]></description>
+      <styleUrl>#poly-CE93D8-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>description: name: Id:
+description: description: 
+Name: Laksha Dweeps
+Id: 33
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: South Zone</value>
+        </Data>
+        <Data name="Name">
+          <value>Laksha Dweeps</value>
+        </Data>
+        <Data name="Layer">
+          <value>South Zone</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              72.994722,11.457148,0
+              72.997221,11.449584,0
+              73.00241,11.445116,0
+              73.010359,11.442781,0
+              73.016233,11.442232,0
+              73.022863,11.444641,0
+              73.028244,11.450832,0
+              73.030653,11.457779,0
+              73.031127,11.464587,0
+              73.029737,11.470295,0
+              73.019077,11.483083,0
+              73.011126,11.485419,0
+              73.004354,11.484935,0
+              72.996827,11.481493,0
+              72.994489,11.473584,0
+              72.993804,11.469664,0
+              72.994722,11.457148,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>33</name>
+      <description><![CDATA[description: description: name: Id:<br>description: description: <br>Name: Laksha Dweeps<br>Id: 33<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: South Zone<br>Name: Laksha Dweeps<br>Layer: South Zone]]></description>
+      <styleUrl>#poly-CE93D8-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>description: name: Id:
+description: description: 
+Name: Laksha Dweeps
+Id: 33
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: South Zone</value>
+        </Data>
+        <Data name="Name">
+          <value>Laksha Dweeps</value>
+        </Data>
+        <Data name="Layer">
+          <value>South Zone</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              73.64354,10.045627,0
+              73.645956,10.040174,0
+              73.648739,10.036789,0
+              73.653956,10.0351,0
+              73.657073,10.03429,0
+              73.661135,10.034565,0
+              73.663639,10.035246,0
+              73.665635,10.035891,0
+              73.669961,10.039759,0
+              73.672694,10.04454,0
+              73.673729,10.051758,0
+              73.674221,10.059451,0
+              73.675834,10.065688,0
+              73.674802,10.073277,0
+              73.672965,10.077748,0
+              73.66815,10.080996,0
+              73.663579,10.080687,0
+              73.658501,10.080342,0
+              73.654578,10.078034,0
+              73.651197,10.075251,0
+              73.647484,10.069893,0
+              73.645767,10.065182,0
+              73.644628,10.059488,0
+              73.643419,10.05481,0
+              73.64354,10.045627,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>33</name>
+      <description><![CDATA[description: description: name: Id:<br>description: description: <br>Name: Laksha Dweeps<br>Id: 33<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: South Zone<br>Name: Laksha Dweeps<br>Layer: South Zone]]></description>
+      <styleUrl>#poly-CE93D8-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>description: name: Id:
+description: description: 
+Name: Laksha Dweeps
+Id: 33
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: South Zone</value>
+        </Data>
+        <Data name="Name">
+          <value>Laksha Dweeps</value>
+        </Data>
+        <Data name="Layer">
+          <value>South Zone</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              73.672943,10.814333,0
+              73.663625,10.808852,0
+              73.660235,10.80184,0
+              73.660572,10.797021,0
+              73.662839,10.792334,0
+              73.667868,10.789773,0
+              73.675657,10.789338,0
+              73.682348,10.790765,0
+              73.694628,10.79548,0
+              73.701184,10.798834,0
+              73.708638,10.803218,0
+              73.713062,10.809332,0
+              73.711626,10.816014,0
+              73.708327,10.821599,0
+              73.698605,10.821902,0
+              73.690051,10.819379,0
+              73.672943,10.814333,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>33</name>
+      <description><![CDATA[description: description: name: Id:<br>description: description: <br>Name: Laksha Dweeps<br>Id: 33<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: South Zone<br>Name: Laksha Dweeps<br>Layer: South Zone]]></description>
+      <styleUrl>#poly-CE93D8-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>description: name: Id:
+description: description: 
+Name: Laksha Dweeps
+Id: 33
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: South Zone</value>
+        </Data>
+        <Data name="Name">
+          <value>Laksha Dweeps</value>
+        </Data>
+        <Data name="Layer">
+          <value>South Zone</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              72.707994,11.100828,0
+              72.713392,11.093477,0
+              72.719188,11.093894,0
+              72.723052,11.094172,0
+              72.730568,11.097614,0
+              72.73422,11.100779,0
+              72.737801,11.104906,0
+              72.741312,11.109996,0
+              72.742748,11.116871,0
+              72.743006,11.126564,0
+              72.740649,11.132199,0
+              72.738504,11.134947,0
+              72.731599,11.136386,0
+              72.725802,11.135969,0
+              72.722008,11.134728,0
+              72.717319,11.132456,0
+              72.715599,11.12943,0
+              72.710511,11.11939,0
+              72.709005,11.113477,0
+              72.708322,11.109558,0
+              72.707994,11.100828,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>33</name>
+      <description><![CDATA[description: description: name: Id:<br>description: description: <br>Name: Laksha Dweeps<br>Id: 33<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: South Zone<br>Name: Laksha Dweeps<br>Layer: South Zone]]></description>
+      <styleUrl>#poly-CE93D8-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>description: name: Id:
+description: description: 
+Name: Laksha Dweeps
+Id: 33
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: South Zone</value>
+        </Data>
+        <Data name="Name">
+          <value>Laksha Dweeps</value>
+        </Data>
+        <Data name="Layer">
+          <value>South Zone</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              72.195291,11.598134,0
+              72.185616,11.597414,0
+              72.179284,11.591143,0
+              72.176823,11.58516,0
+              72.177412,11.57747,0
+              72.180829,11.570956,0
+              72.196749,11.566339,0
+              72.202481,11.567731,0
+              72.207098,11.570974,0
+              72.210527,11.57703,0
+              72.21098,11.583831,0
+              72.210539,11.589599,0
+              72.209278,11.593372,0
+              72.195291,11.598134,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>33</name>
+      <description><![CDATA[description: description: name: Id:<br>description: description: <br>Name: Laksha Dweeps<br>Id: 33<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: South Zone<br>Name: Laksha Dweeps<br>Layer: South Zone]]></description>
+      <styleUrl>#poly-CE93D8-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>description: name: Id:
+description: description: 
+Name: Laksha Dweeps
+Id: 33
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: South Zone</value>
+        </Data>
+        <Data name="Name">
+          <value>Laksha Dweeps</value>
+        </Data>
+        <Data name="Layer">
+          <value>South Zone</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              72.704894,11.692668,0
+              72.696758,11.684336,0
+              72.692422,11.677249,0
+              72.691958,11.670443,0
+              72.693502,11.662816,0
+              72.698629,11.659319,0
+              72.7063,11.660844,0
+              72.712788,11.665186,0
+              72.71734,11.669386,0
+              72.721892,11.673587,0
+              72.724365,11.679571,0
+              72.724758,11.68734,0
+              72.723502,11.691118,0
+              72.720382,11.693794,0
+              72.716438,11.694475,0
+              72.704894,11.692668,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>33</name>
+      <description><![CDATA[description: description: name: Id:<br>description: description: <br>Name: Laksha Dweeps<br>Id: 33<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: South Zone<br>Name: Laksha Dweeps<br>Layer: South Zone]]></description>
+      <styleUrl>#poly-CE93D8-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>description: name: Id:
+description: description: 
+Name: Laksha Dweeps
+Id: 33
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: South Zone</value>
+        </Data>
+        <Data name="Name">
+          <value>Laksha Dweeps</value>
+        </Data>
+        <Data name="Layer">
+          <value>South Zone</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              72.31917,10.109933,0
+              72.324657,10.105674,0
+              72.330471,10.104024,0
+              72.33562,10.104393,0
+              72.340254,10.104725,0
+              72.344147,10.108106,0
+              72.346974,10.111927,0
+              72.34818,10.116666,0
+              72.348947,10.12034,0
+              72.348534,10.125996,0
+              72.347166,10.13055,0
+              72.342822,10.13334,0
+              72.338037,10.135065,0
+              72.334395,10.13532,0
+              72.331306,10.135098,0
+              72.327777,10.133811,0
+              72.32627,10.133186,0
+              72.322489,10.128263,0
+              72.320617,10.125544,0
+              72.319336,10.121833,0
+              72.318971,10.11974,0
+              72.31917,10.109933,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>33</name>
+      <description><![CDATA[description: description: name: Id:<br>description: description: <br>Name: Laksha Dweeps<br>Id: 33<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: South Zone<br>Name: Laksha Dweeps<br>Layer: South Zone]]></description>
+      <styleUrl>#poly-CE93D8-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>description: name: Id:
+description: description: 
+Name: Laksha Dweeps
+Id: 33
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: South Zone</value>
+        </Data>
+        <Data name="Name">
+          <value>Laksha Dweeps</value>
+        </Data>
+        <Data name="Layer">
+          <value>South Zone</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              73.668786,10.116272,0
+              73.665212,10.108881,0
+              73.665054,10.103764,0
+              73.665299,10.100207,0
+              73.667032,10.09726,0
+              73.669273,10.094349,0
+              73.673511,10.092083,0
+              73.678081,10.092393,0
+              73.682005,10.094701,0
+              73.68535,10.097991,0
+              73.687172,10.101179,0
+              73.687874,10.105822,0
+              73.688471,10.11199,0
+              73.688192,10.116056,0
+              73.687299,10.121612,0
+              73.686144,10.123577,0
+              73.681941,10.125334,0
+              73.676389,10.124447,0
+              73.673954,10.12275,0
+              73.671116,10.119494,0
+              73.668786,10.116272,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>33</name>
+      <description><![CDATA[description: description: name: Id:<br>description: description: <br>Name: Laksha Dweeps<br>Id: 33<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: South Zone<br>Name: Laksha Dweeps<br>Layer: South Zone]]></description>
+      <styleUrl>#poly-CE93D8-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>description: name: Id:
+description: description: 
+Name: Laksha Dweeps
+Id: 33
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: South Zone</value>
+        </Data>
+        <Data name="Name">
+          <value>Laksha Dweeps</value>
+        </Data>
+        <Data name="Layer">
+          <value>South Zone</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              72.538672,10.777169,0
+              72.530952,10.776613,0
+              72.526269,10.774341,0
+              72.526482,10.771455,0
+              72.525871,10.766575,0
+              72.526225,10.761765,0
+              72.53044,10.757233,0
+              72.538301,10.755865,0
+              72.546844,10.758415,0
+              72.553316,10.76275,0
+              72.555715,10.769693,0
+              72.556114,10.777459,0
+              72.552865,10.782061,0
+              72.549005,10.781783,0
+              72.546109,10.781574,0
+              72.538672,10.777169,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>33</name>
+      <description><![CDATA[description: description: name: Id:<br>description: description: <br>Name: Laksha Dweeps<br>Id: 33<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: South Zone<br>Name: Laksha Dweeps<br>Layer: South Zone]]></description>
+      <styleUrl>#poly-CE93D8-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>description: name: Id:
+description: description: 
+Name: Laksha Dweeps
+Id: 33
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: South Zone</value>
+        </Data>
+        <Data name="Name">
+          <value>Laksha Dweeps</value>
+        </Data>
+        <Data name="Layer">
+          <value>South Zone</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              72.281852,10.032823,0
+              72.281048,10.029664,0
+              72.280244,10.026505,0
+              72.281021,10.022942,0
+              72.282276,10.019931,0
+              72.285515,10.018096,0
+              72.287574,10.018244,0
+              72.289632,10.018391,0
+              72.292646,10.019641,0
+              72.295032,10.022397,0
+              72.29841,10.02574,0
+              72.302227,10.030149,0
+              72.303874,10.035953,0
+              72.303423,10.042123,0
+              72.301654,10.045098,0
+              72.298452,10.046419,0
+              72.293819,10.046086,0
+              72.291798,10.045424,0
+              72.289851,10.043734,0
+              72.287943,10.04153,0
+              72.281852,10.032823,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>35</name>
+      <description><![CDATA[description: description: name: Id:<br>description: description: <br>Name: Laksha Dweeps<br>Id: 33<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: Unknown Area Type<br>Name: Laksha Dweeps<br>Layer: South Zone<br>Name: Laksha Dweeps<br>Layer: South Zone]]></description>
+      <styleUrl>#poly-CE93D8-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>description: name: Id:
+description: description: 
+Name: Laksha Dweeps
+Id: 33
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: Unknown Area Type
+Name: Laksha Dweeps
+Layer: South Zone</value>
+        </Data>
+        <Data name="Name">
+          <value>Laksha Dweeps</value>
+        </Data>
+        <Data name="Layer">
+          <value>South Zone</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              72.777949,11.192929,0
+              72.785114,11.201184,0
+              72.790558,11.206412,0
+              72.796615,11.216522,0
+              72.798948,11.22443,0
+              72.798311,11.233092,0
+              72.795057,11.237696,0
+              72.790907,11.241268,0
+              72.782962,11.243599,0
+              72.780063,11.243391,0
+              72.775301,11.242081,0
+              72.772685,11.238023,0
+              72.770282,11.231077,0
+              72.767879,11.224132,0
+              72.765617,11.215262,0
+              72.762177,11.20921,0
+              72.756733,11.203981,0
+              72.752185,11.199784,0
+              72.74792,11.191737,0
+              72.747521,11.183969,0
+              72.747947,11.178195,0
+              72.749197,11.174415,0
+              72.752662,11.166924,0
+              72.75674,11.164315,0
+              72.761713,11.162737,0
+              72.765579,11.163015,0
+              72.769373,11.164255,0
+              72.773096,11.166458,0
+              72.776679,11.170585,0
+              72.778186,11.176498,0
+              72.778799,11.18138,0
+              72.777949,11.192929,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
