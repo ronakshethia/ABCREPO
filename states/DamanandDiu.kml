@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DamanandDiu</name>
+    <Style id="poly-F57C00-2000-76-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-F57C00-2000-76-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-F57C00-2000-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F57C00-2000-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F57C00-2000-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>33</name>
+      <description><![CDATA[description: name: Id:<br>description: description: <br>Name: Daman(Daman&Diu)<br>Id: 7<br>Layer: Unknown Area Type<br>Name: Daman(Daman&Diu)<br>Layer: Unknown Area Type<br>Name: Daman(Daman&amp;Diu)<br>Layer: Unknown Area Type]]></description>
+      <styleUrl>#poly-F57C00-2000-76</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value><![CDATA[name: Id:
+description: description: 
+Name: Daman(Daman&Diu)
+Id: 7
+Layer: Unknown Area Type
+Name: Daman(Daman&Diu)
+Layer: Unknown Area Type]]></value>
+        </Data>
+        <Data name="Name">
+          <value><![CDATA[Daman(Daman&amp;Diu)]]></value>
+        </Data>
+        <Data name="Layer">
+          <value>Unknown Area Type</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              72.94823,20.466602,0
+              72.95561,20.469934,0
+              72.962662,20.477538,0
+              72.955821,20.487117,0
+              72.950934,20.491097,0
+              72.944418,20.496404,0
+              72.924481,20.501579,0
+              72.911528,20.486774,0
+              72.904402,20.482435,0
+              72.89675,20.47418,0
+              72.892337,20.466909,0
+              72.88869,20.460464,0
+              72.885103,20.453246,0
+              72.882518,20.443762,0
+              72.882884,20.428257,0
+              72.880537,20.415684,0
+              72.878837,20.405481,0
+              72.879257,20.390654,0
+              72.893036,20.390107,0
+              72.910397,20.382634,0
+              72.918209,20.380272,0
+              72.924501,20.377813,0
+              72.930794,20.375353,0
+              72.938496,20.374414,0
+              72.947281,20.379266,0
+              72.948365,20.385058,0
+              72.93708,20.392923,0
+              72.931651,20.404022,0
+              72.943367,20.410493,0
+              72.956172,20.402725,0
+              72.964092,20.398937,0
+              72.970708,20.412235,0
+              72.968211,20.424953,0
+              72.964302,20.43615,0
+              72.96202,20.44602,0
+              72.948775,20.459483,0
+              72.94823,20.466602,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
